@@ -1,13 +1,13 @@
 # PowerBI-Portfolio
 Proyectos elaborados en Power BI para la implemntación de sistemas de inteligencia comercial 
 
-##🚀Implementación de un Sistema de Inteligencia Comercial para Reducir la Tasa de Cancelación
+## 🚀Implementación de un Sistema de Inteligencia Comercial para Reducir la Tasa de Cancelación
 
 
 Este proyecto se centra en el diseño e implementación de una solución de Business Intelligence (BI) para una empresa de servicios ficticia, con el objetivo primordial de comprender y mitigar la pérdida de ingresos causada por la cancelación de servicios adicionales, la baja total de contratos y la anulación de suscripciones de terceros.
 
 
-##🎯 Problema de negocio y objetivo central
+## 🎯 Problema de negocio y objetivo central
 
 
 La cancelación de servicios representa una pérdida directa de flujos de ingresos continuos, impactando negativamente la rentabilidad y la estabilidad financiera a largo plazo de la empresa.
@@ -17,7 +17,7 @@ La cancelación de servicios representa una pérdida directa de flujos de ingres
 **Resultado Esperado:** Transformar los datos brutos en insights accionables para la creación de estrategias de retención efectivas.
 
 
-##💡 Fase 1: Determinación de necesidades de BI
+## 💡 Fase 1: Determinación de necesidades de BI
 
 
 La fase inicial se enfocó en alinear la solución de BI con las necesidades estratégicas del negocio:
@@ -29,7 +29,7 @@ La fase inicial se enfocó en alinear la solución de BI con las necesidades est
 | **Análisis de Motivos** | Integración de métricas para correlacionar la cancelación con fuentes externas (CRM, Call Center, encuestas de salida). | Comprensión *profunda* de las razones subyacentes decancelación. |
 
 
-##📊Dashboard interactivo (Power BI)
+## 📊Dashboard interactivo (Power BI)
 
 
 Link: 
@@ -37,7 +37,7 @@ Link:
 https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa
 
 
-##🛠️ Detalles técnicos de la implementación
+## 🛠️ Detalles técnicos de la implementación
 
 
 
@@ -49,7 +49,7 @@ https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4Y
 | **Visualización** | **Power BI Desktop** | Creación de visualizaciones claras y jerárquicas que comunican las tendencias y los factores de riesgo de cancelación. |
 
 
-##📈 Conclusiones clave y valor de negocio
+## 📈 Conclusiones clave y valor de negocio
 
 
 La implementación de este sistema permite a la organización:
@@ -61,7 +61,7 @@ La implementación de este sistema permite a la organización:
 **Rentabilidad Sostenible:** Al buscar una mayor retención de la base de usuarios, se garantiza un incremento en los ingresos recurrentes y una mayor rentabilidad a largo plazo.
 
 
-##📧Contacto
+## 📧Contacto
 
 
 **Nombre:** Valeria Frias Contreras
