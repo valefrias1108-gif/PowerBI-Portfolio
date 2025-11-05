@@ -5,7 +5,7 @@ Implementación de un Sistema de Inteligencia Comercial para Reducir la Tasa de 
 
 Este proyecto se centra en el diseño e implementación de una solución de Business Intelligence (BI) para una empresa de servicios ficticia, con el objetivo primordial de comprender y mitigar la pérdida de ingresos causada por la cancelación de servicios adicionales, la baja total de contratos y la anulación de suscripciones de terceros.
 
-🎯 Problema de Negocio y Objetivo Central
+🎯 Problema de Negocio y objetivo central
 
 La cancelación de servicios representa una pérdida directa de flujos de ingresos continuos, impactando negativamente la rentabilidad y la estabilidad financiera a largo plazo de la empresa.
 
@@ -23,7 +23,9 @@ La fase inicial se enfocó en alinear la solución de BI con las necesidades est
 | **Análisis de Motivos** | Integración de métricas para correlacionar la cancelación con fuentes externas (CRM, Call Center, encuestas de salida). | Comprensión *profunda* de las razones subyacentes decancelación. |
 
 Dashboard Interactivo (Power BI)
+
 Link: 
+
 https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa
 
 | Componente | Tecnologías Utilizadas | Descripción |
