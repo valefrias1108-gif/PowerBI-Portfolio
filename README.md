@@ -23,7 +23,8 @@ La fase inicial se enfocó en alinear la solución de BI con las necesidades est
 | **Análisis de Motivos** | Integración de métricas para correlacionar la cancelación con fuentes externas (CRM, Call Center, encuestas de salida). | Comprensión *profunda* de las razones subyacentes decancelación. |
 
 Dashboard Interactivo (Power BI)
-Link: https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa
+Link: 
+https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa
 
 | Componente | Tecnologías Utilizadas | Descripción |
 | :--- | :--- | :--- |
@@ -42,7 +43,8 @@ Actuar con Precisión: Utilizar la segmentación para asignar recursos de retenc
 Rentabilidad Sostenible: Al buscar una mayor retención de la base de usuarios, se garantiza un incremento en los ingresos recurrentes y una mayor rentabilidad a largo plazo.
 
 Contacto
-Valeria Frias Contreras
+
+Nombre: Valeria Frias Contreras
 
 LinkedIn : https://www.linkedin.com/in/valeria-frias-contreras-b00ba4368/
 
