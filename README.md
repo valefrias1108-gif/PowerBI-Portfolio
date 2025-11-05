@@ -23,7 +23,7 @@ La fase inicial se enfocó en alinear la solución de BI con las necesidades est
 | **Análisis de Motivos** | Integración de métricas para correlacionar la cancelación con fuentes externas (CRM, Call Center, encuestas de salida). | Comprensión *profunda* de las razones subyacentes decancelación. |
 
 Dashboard Interactivo (Power BI)
-<iframe title="Vistas usuario mejorado" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa" frameborder="0" allowFullScreen="true"></iframe>
+Link: https://app.powerbi.com/view?r=eyJrIjoiN2ViMmNhYWYtNTk2My00MTQ0LWFjNjgtOTNhOGQ4YTJlYjQ0IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9&pageName=0a74781e07538e527baa
 
 | Componente | Tecnologías Utilizadas | Descripción |
 | :--- | :--- | :--- |
